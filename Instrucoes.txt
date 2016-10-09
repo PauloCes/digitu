@@ -11,6 +11,7 @@ Green	<—-> 	Digital2
 White	<—-> 	Digital3
 Black	<—-> 	GND
 
-Carregue o código de exemplo da biblioteca chamado ENROLL ele permite cadastrar digitais (cadastre a sua digital) no monitor serial, tenha certeza de que a opção “Nova-linha” está selecionada na caixa ao lado da velocidade.
+Carregue o código de exemplo da biblioteca chamado ENROLL ele permite cadastrar digitais (cadastre a sua digital) no
+monitor serial, tenha certeza de que a opção “Nova-linha” está selecionada na caixa ao lado da velocidade.
 
 Carregue o código de exemplo da biblioteca chamado FINGERPRINT, ele deve reconhecer a sua digital recém cadastrada.
